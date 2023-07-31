@@ -1,0 +1,1 @@
+<student><name>Bob Doe</name><student_id>61696119</student_id><programme>Computer Science</programme><courses><course><name>CSC101</name><mark>56</mark></course><course><name>CSC102</name><mark>36</mark></course><course><name>CSC103</name><mark>19</mark></course><course><name>CSC104</name><mark>74</mark></course></courses></student>

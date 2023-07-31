@@ -1,0 +1,1 @@
+<student><name>Bob Smith</name><student_id>70692761</student_id><programme>Computer Science</programme><courses><course><name>CSC101</name><mark>40</mark></course><course><name>CSC102</name><mark>31</mark></course><course><name>CSC103</name><mark>54</mark></course><course><name>CSC104</name><mark>22</mark></course></courses></student>
