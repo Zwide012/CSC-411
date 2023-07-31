@@ -4,7 +4,7 @@ Mini Project
 """
 Created on Wed Jul 19 16:12:10 2023
 
-@author: Phathizwe
+@author: Phathizwe & Dumane
 """
 
 
